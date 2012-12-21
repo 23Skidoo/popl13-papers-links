@@ -36,7 +36,7 @@ Day 1
 
 ----
 
-[On the linear ranking problem for integer linear-constraint loops.](http://arxiv.org/pdf/1208.4041v1)
+[On the linear ranking problem for integer linear-constraint loops. (arXiv)](http://arxiv.org/pdf/1208.4041v1)
 * A. Ben-Amram
 * S. Genaim
 
@@ -102,7 +102,7 @@ Day 1
 
 ----
 
-[The Geometry of Types](http://arxiv.org/pdf/1210.6857v1)
+[The Geometry of Types. (arXiv)](http://arxiv.org/pdf/1210.6857v1)
 * U. Lago
 * B. Petit
 
