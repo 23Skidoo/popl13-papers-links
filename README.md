@@ -350,3 +350,48 @@ Day 3
 [Subjective auxiliary state for coarse-grained concurrency.](http://software.imdea.org/~aleks/papers/concur/scsl4.pdf)
 * R. Ley-Wild
 * A. Nanevski
+
+
+PLPV 2013
+---------
+
+[Modular Type-Safety Proofs in Agda.](http://ecee.colorado.edu/~siek/plpv07-schwaab.pdf)
+* Christopher Schwaab
+* Jeremy Siek
+
+--
+
+[Compiling Contextual Objects: Bringing Higher-Order Abstract Syntax to
+Programmers.](http://www.cs.mcgill.ca/~bpientka/papers/plpv04-ferreira.pdf)
+* Francisco Ferreira
+* Brigitte Pientka
+* Stefan Monnier
+
+--
+
+[A Static Cost Analysis for a Higher-Order Language. (arXiv)](http://arxiv.org/pdf/1206.3523v3)
+* Norman Danner
+* Jennifer Paykin
+* James Royer
+
+--
+
+[Towards Formal Verification of TLS Network Packet Processing in C.](http://staff.aist.go.jp/reynald.affeldt/bib.html)
+* Reynald Affeldt
+* Nicolas Marti
+
+--
+
+[Automated Analysis of Rule-Based Access Control Policies.](http://www.lif.univ-mrs.fr/~clara/research.html)
+* Clara Bertolissi
+* Worachet Uttha
+
+--
+
+[Causality For Free! Parametricity Implies Causality for Functional Reactive Programs.](http://ect.bell-labs.com/who/ajeffrey/papers/plpv13.pdf)
+* Alan Jeffrey
+
+--
+
+[Temporal Logic with “Until”: Functional Reactive Programming with Processes and Concrete Process Categories.](http://www.ioc.ee/~wolfgang/research/plpv-2013-paper.pdf)
+* Wolfgang Jeltsch
