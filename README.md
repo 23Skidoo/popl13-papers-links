@@ -188,7 +188,7 @@ Day 2
 
 ### Concurrency
 
-[Quantitative relaxation of concurrent data structures.](http://www.cosy.sbg.ac.at/research/tr/2012-03_Henzinger_Sezgin_Kirsch_Payer_Sokolova.pdf)
+[Quantitative relaxation of concurrent data structures.](http://www.cs.uni-salzburg.at/~ck/content/publications/conferences/POPL13-QuantitativeRelaxation.pdf)
 * T. Henzinger
 * C. Kirsch
 * H. Payer
